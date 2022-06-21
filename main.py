@@ -87,7 +87,7 @@ while firstTotal != 0:
         if firstTotal == thirdTotal:
             print("You made it back to your first total! The first instances of the numbers used will be eliminated "
                   "from "
-                  "your set!")
+                  "your set!\n")
             time.sleep(3)
             for num in usedNum:
                 if num in setList:
@@ -97,7 +97,7 @@ while firstTotal != 0:
             p.score += 100
             firstTotal = sum(setList)
         elif (numMoves == 0 or sorted(setList) == sorted(usedNum)) and firstTotal != thirdTotal:
-            print("Out of moves or numbers! Two more numbers have been added to your set!")
+            print("Out of moves or numbers! Two more numbers have been added to your set!\n")
             for i in range(2):
                 setList.append(random.randrange(1, 11, 1))
                 usedNum.clear()
