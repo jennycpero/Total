@@ -1,4 +1,4 @@
-#About Total
+# About Total
 
 Total is a math puzzle game created by Jenny Pero.
 
@@ -8,15 +8,15 @@ If successful, the first occurrence of each number you used to return to your fi
 
 But if you fail, however, two more numbers will be inserted into your set, increasing your total! Be careful!
 
-###Things To Remember:
+### Things To Remember:
 - Sometimes, the random numbers generated to create your second and third total may end up being the same number, meaning your first and third total will match from the start! This is called a 'cancel'. When this happens, if the number that caused this cancel is in your set, *all* occurrences of this number will be removed from your set! If the cancel number is not in your set, you can choose a different number to remove all occurrences of instead. 
 - Use up as many numbers as you can!
 - When you win Total, your score is presented. It serves no purpose other than bragging rights.
 - No calculator is provided. Practice your arithmetic (I know I need to).
 - Have fun!
 
-###Usage Rights:
+### Usage Rights:
 You are free to fork this project and make whatever changes you'd like. Please credit me if you wish to use your forked or copycat version of my game for personal, educational, or commercial purposes.
 
-###Future Plans For Total:
+### Future Plans For Total:
 Although I do have plans for a GUI version of Total, for now it will remain a terminal-styled game.

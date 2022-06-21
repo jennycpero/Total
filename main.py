@@ -1,6 +1,8 @@
 import time
 import random
 
+# fix bug that prevents cancels on last number from looping back
+
 # creates list of 10 numbers to be your set
 setList = [random.randrange(1, 11, 1) for i in range(10)]
 usedNum = []  # list of nums used during guess
@@ -16,7 +18,7 @@ class Player:
 
 def cancel(remove, setCopy):
     if remove in setCopy:
-        print("All instances of " + str(remove) + " will be eliminated from your set!")
+        print("All instances of " + str(remove) + " will be eliminated from your set!\n")
         setCopy[:] = (val for val in setCopy if val != remove)
     else:
         print(str(remove) + " is not in your set, so you can choose to remove all instances of another number instead.")
@@ -57,7 +59,7 @@ while firstTotal != 0:
             option = input("\nWould you like to add, subtract, or give up? (A/S/G): ")
             # if they choose to give up
             if option.upper() == "G":
-                print("\nOuch! Two numbers have been added to your set!")
+                print("\nOuch! Two numbers have been added to your set!\n")
                 time.sleep(2)
                 for i in range(2):
                     setList.append(random.randrange(1, 11, 1))
@@ -103,4 +105,3 @@ while firstTotal != 0:
                 usedNum.clear()
 print("\nCongratulations! You've won Total!")
 print("Your score: " + str(p.score))
-
