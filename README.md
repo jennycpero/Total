@@ -2,6 +2,15 @@
 
 Total is a math puzzle game created by Jenny Pero.
 
+## How To Install
+1. Go to the [GitHub repository](https://github.com/jennycpero/Total) for Total.
+2. Click on the latest release note in the "Releases" section, located on the right side of the page.
+3. At the bottom of the release note, under the "Assets" dropdown, click the "total.exe" file to begin downloading.
+4. Open the "total.exe" file and start playing!
+
+*Note: If you receive a popup from your antivirus software saying that it is rejecting the download, don't panic! Most of these popups provide an option to allow the download anyway.*
+
+## How To Play
 In Total, you are first given a set of 10 numbers between 1 and 10, with its sum representing its "first total". A random number is then added to the first total to create a "second total", before finally being subtracted by another random number to generate the "third total". Using only the numbers in your set, and constricted by a random number of moves, you must use basic arithmetic to find your way back from your third total to your first total. 
 
 If successful, the first occurrence of each number you used to return to your first total will be removed from your set, and the process repeats. **Your goal is to reduce your set to 0 numbers, a total of 0.**
@@ -15,8 +24,5 @@ But if you fail, however, two more numbers will be inserted into your set, incre
 - No calculator is provided. Practice your arithmetic (I know I need to).
 - Have fun!
 
-### Usage Rights:
+## Usage Rights:
 You are free to fork this project and make whatever changes you'd like. Please credit me if you wish to use your forked or copycat version of my game for personal, educational, or commercial purposes.
-
-### Future Plans For Total:
-Although I do have plans for a GUI version of Total, for now it will remain a terminal-styled game.
