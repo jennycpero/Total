@@ -4,8 +4,8 @@ Total is a math puzzle game created by Jenny Pero.
 
 ## How To Install
 1. Go to the [GitHub repository](https://github.com/jennycpero/Total) for Total.
-2. Click on the latest release note in the "Releases" section, located on the right side of the page.
-3. At the bottom of the release note, under the "Assets" dropdown, click the "total.exe" file to begin downloading.
+2. Select the latest release note in the "Releases" section, located on the right side of the page.
+3. Click the "total.exe" file at the bottom of the release note to begin downloading.
 4. Open the "total.exe" file and start playing!
 
 *Note: If you receive a popup from your antivirus software saying that it is rejecting the download, don't panic! Most of these popups provide an option to allow the download anyway.*
