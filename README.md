@@ -8,7 +8,7 @@ Total is a math puzzle game created by Jenny Pero.
 3. Click the "total.exe" file at the bottom of the release note to begin downloading.
 4. Open the "total.exe" file and start playing!
 
-*Note: If you receive a popup from your antivirus software saying that it is rejecting the download, don't panic! Most of these popups provide an option to allow the download anyway.*
+*Note: If you receive a popup from your antivirus software saying that it wants to reject the download, don't panic! Most of these popups provide an option to allow the download anyway.*
 
 ## How To Play
 In Total, you are first given a set of 10 numbers between 1 and 10, with its sum representing its "first total". A random number is then added to the first total to create a "second total", before finally being subtracted by another random number to generate the "third total". Using only the numbers in your set, and constricted by a random number of moves, you must use basic arithmetic to find your way back from your third total to your first total. 
