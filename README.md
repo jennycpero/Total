@@ -1,6 +1,6 @@
-# About Total
+# Total
 
-Total is a math puzzle game created by Jenny Pero.
+Total is a simple math puzzle game programmed in Python.
 
 ## How To Install
 1. Go to the [GitHub repository](https://github.com/jennycpero/Total) for Total.
