@@ -24,4 +24,4 @@ But if you fail, two more numbers will be inserted into your set, increasing you
 - Have fun!
 
 ## Contributions and Usage Rights
-I can't guarantee that I will accept any pull requests, as this is an old project. Feel free to make a copycat/improved version through, preferrably with credit.
+I can't guarantee that I will accept any pull requests, as this is an old project. Feel free to make a copycat/improved version though, preferrably with credit.
