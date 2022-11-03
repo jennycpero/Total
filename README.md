@@ -3,10 +3,9 @@
 Total is an arithmetic puzzle game in terminal style, programmed using Python.
 
 ## How To Install
-1. Go to the [GitHub repository](https://github.com/jennycpero/Total) for Total.
-2. Select the latest release note in the **Releases** section, located on the right side of the page.
-3. Select the **total.exe** file below the **Assets** dropdown to begin downloading.
-4. Open the **total.exe** file and start playing!
+1. Select the latest release note in the **Releases** section, located on the right side of the page.
+2. Select the **total.exe** file below the **Assets** dropdown to begin downloading.
+3. Open the **total.exe** file and start playing!
 
 *Note: If you receive a popup from your antivirus software saying that it wants to reject the download, don't panic! Most of these popups provide an option to allow the download anyway. I swear it's not dangerous.*
 
